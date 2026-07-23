@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritsu-cell/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ritsu-cell/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritsu-cell/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ritsu-cell/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ritsu-cell/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
