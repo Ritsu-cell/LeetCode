@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ritsu-cell/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ritsu-cell/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0344-reverse-string) |
 ## Design
 |  |
 | ------- |
