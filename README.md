@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritsu-cell/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ritsu-cell/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Ritsu-cell/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ritsu-cell/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritsu-cell/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
@@ -140,4 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
