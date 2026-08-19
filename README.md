@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Ritsu-cell/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ritsu-cell/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Ritsu-cell/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
