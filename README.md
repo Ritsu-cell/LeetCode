@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritsu-cell/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritsu-cell/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
