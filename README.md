@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ritsu-cell/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ritsu-cell/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ritsu-cell/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ritsu-cell/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ritsu-cell/LeetCode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Ritsu-cell/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ritsu-cell/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ritsu-cell/LeetCode/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ritsu-cell/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ritsu-cell/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0344-reverse-string) |
 ## Design
