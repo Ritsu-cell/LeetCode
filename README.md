@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ritsu-cell/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritsu-cell/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ritsu-cell/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ritsu-cell/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ritsu-cell/LeetCode/tree/master/0112-path-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ritsu-cell/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
