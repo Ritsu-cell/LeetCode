@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritsu-cell/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritsu-cell/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ritsu-cell/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ritsu-cell/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
