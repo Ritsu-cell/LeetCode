@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ritsu-cell/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ritsu-cell/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ritsu-cell/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Ritsu-cell/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/Ritsu-cell/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ritsu-cell/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Ritsu-cell/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
