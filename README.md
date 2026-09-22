@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ritsu-cell/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ritsu-cell/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Ritsu-cell/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Ritsu-cell/LeetCode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Ritsu-cell/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ritsu-cell/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Ritsu-cell/LeetCode/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## String
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ritsu-cell/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ritsu-cell/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Ritsu-cell/LeetCode/tree/master/0412-fizz-buzz) |
 ## Design
 |  |
 | ------- |
