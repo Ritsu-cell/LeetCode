@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ritsu-cell/LeetCode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Ritsu-cell/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritsu-cell/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ritsu-cell/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ritsu-cell/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/0260-single-number-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritsu-cell/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
