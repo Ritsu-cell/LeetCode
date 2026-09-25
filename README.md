@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Ritsu-cell/LeetCode/tree/master/0112-path-sum) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/Ritsu-cell/LeetCode/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ritsu-cell/LeetCode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Ritsu-cell/LeetCode/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Ritsu-cell/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ritsu-cell/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ritsu-cell/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
