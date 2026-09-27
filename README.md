@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ritsu-cell/LeetCode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Ritsu-cell/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Ritsu-cell/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Ritsu-cell/LeetCode/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ritsu-cell/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ritsu-cell/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ritsu-cell/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ritsu-cell/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ritsu-cell/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ritsu-cell/LeetCode/tree/master/0242-valid-anagram) |
