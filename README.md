@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Ritsu-cell/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ritsu-cell/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Ritsu-cell/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritsu-cell/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
