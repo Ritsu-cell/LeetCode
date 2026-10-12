@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ritsu-cell/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Ritsu-cell/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Ritsu-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritsu-cell/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Ritsu-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ritsu-cell/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritsu-cell/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ritsu-cell/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Ritsu-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Ritsu-cell/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -294,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ritsu-cell/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritsu-cell/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ritsu-cell/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ritsu-cell/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
