@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ritsu-cell/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritsu-cell/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Ritsu-cell/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ritsu-cell/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Bit Manipulation
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Ritsu-cell/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritsu-cell/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Quicksort
 |  |
@@ -314,5 +318,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Ritsu-cell/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
