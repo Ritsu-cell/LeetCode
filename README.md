@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Ritsu-cell/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Game Theory
@@ -320,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Ritsu-cell/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
