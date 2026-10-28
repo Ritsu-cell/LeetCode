@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Ritsu-cell/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritsu-cell/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1480-running-sum-of-1d-array) |
