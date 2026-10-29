@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ritsu-cell/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ritsu-cell/LeetCode/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Ritsu-cell/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritsu-cell/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Ritsu-cell/LeetCode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Ritsu-cell/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/Ritsu-cell/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
