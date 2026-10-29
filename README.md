@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ritsu-cell/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Ritsu-cell/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ritsu-cell/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
