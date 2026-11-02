@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ritsu-cell/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ritsu-cell/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ritsu-cell/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritsu-cell/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ritsu-cell/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Ritsu-cell/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ritsu-cell/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ritsu-cell/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritsu-cell/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Game Theory
