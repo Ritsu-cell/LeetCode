@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ritsu-cell/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ritsu-cell/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritsu-cell/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Ritsu-cell/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritsu-cell/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Ritsu-cell/LeetCode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritsu-cell/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ritsu-cell/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Ritsu-cell/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Ritsu-cell/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Ritsu-cell/LeetCode/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/Ritsu-cell/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Ritsu-cell/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ritsu-cell/LeetCode/tree/master/0877-stone-game) |
